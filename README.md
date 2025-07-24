@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/amalpvatayam67/ghostdns?style=social)
+![GitHub forks](https://img.shields.io/github/forks/amalpvatayam67/ghostdns?style=social)
+![GitHub license](https://img.shields.io/github/license/amalpvatayam67/ghostdns)
+![GitHub last commit](https://img.shields.io/github/last-commit/amalpvatayam67/ghostdns)
 # 👻 GhostDNS - Subdomain Takeover Scanner
 
 **GhostDNS** is a lightweight Python tool to detect potential subdomain takeover vulnerabilities.  
